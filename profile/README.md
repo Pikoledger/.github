@@ -1,1 +1,1 @@
-## 🥧 Piko is an instant finality ⚡️ PoW ⛏️ asset 💰 network 🌐.
+# 🥧 Piko is an instant finality ⚡️ PoW ⛏️ asset 💰 network 🌐.
